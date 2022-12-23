@@ -37,12 +37,10 @@
     "react": "*",
     "react-native": ">=0.62",
     "react-native-video": ">=5",
-    "react-native-video-cache-control": "*",
     "react-native-reanimated": ">=2.10.0",
     "react-native-gesture-handler": ">=2.5.0"
   },
   "devDependencies": {
-    "react-native-video-cache-control": "^1.1.1",
     "@babel/core": "^7.12.9",
     "@babel/runtime": "^7.12.5",
     "@commitlint/cli": "^16.1.0",
